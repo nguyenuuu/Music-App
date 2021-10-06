@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/afec2407ee.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="./image/favicon.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Music App</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="playing">
+            <h3 class="name_tracks"></h3>
+            <p class="artists"></p>
+            <img src="" class="audio_image">
+            <div class="bar_tool">
+                <div class="loop">
+                    <i class="fas fa-undo-alt"></i>
+                </div>
+                <div class="back">
+                    <i class="fas fa-step-backward"></i>
+                </div>
+                <div class="play_tool">
+                    <div class="pause">
+                        <i class="fas fa-pause-circle"></i>
+                    </div>
+                    <div class="play">
+                        <i class="fas fa-play-circle"></i>
+                    </div>
+                </div>
+                <div class="next">
+                    <i class="fas fa-step-forward"></i>
+                </div>
+                <div class="random">
+                    <i class="fas fa-random"></i>
+                </div>
+            </div>
+            <div class="time">
+                <div class="number_time">
+                    <p class="curr_time">0:00</p>
+                    <p class="total_time">5:11</p>
+                </div>
+                <div class="progress">
+                    <div class="percent_progress"></div>
+                </div>
+            </div>
+            <audio>
+                <source src="./audio/BetYouWannaFeatCardiB-BLACKPINK.mp3" type="audio/ogg">
+            </audio>
+        </div>
+        <div class="list_tracks">          
+            <!-- <div class="tracks">
+                <div class="info">
+                    <img class="thumbnail" src="./image/betyouwanna.jpg"></img>
+                    <div class="text_info">
+                        <h3 class="name">Bet You Wanna</h3>
+                        <p class="artists_name">BlackPink - CardiB</p>
+                    </div>
+                </div>
+                <div class="detail">
+                    <i class="fas fa-ellipsis-h"></i>
+                </div>
+            </div> -->
+        </div>
+    </div>
+    <script src="./js/app.js"></script>
+</body>
+
+</html>

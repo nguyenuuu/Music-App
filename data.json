@@ -1,0 +1,64 @@
+{
+    "audio": [
+        {
+            "audioName": "Bet You Wanna",
+            "audioArtists": "BlackPink - CardiB",
+            "audioImage": "./image/betyouwanna.jpg",
+            "audioFile": "./audio/BetYouWannaFeatCardiB-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Ddu Du Ddu Du",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/duddududdu.jpg",
+            "audioFile": "./audio/DduduDdudu-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Forever Young",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/foreveryoung.jpg",
+            "audioFile": "./audio/ForeverYoung-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "How You Like That",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/howyoulikethat.png",
+            "audioFile": "./audio/HowYouLikeThat-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Kick It",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/kickit.jpg",
+            "audioFile": "./audio/KickIt-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Kill This Love",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/killthislove.jpeg",
+            "audioFile": "./audio/KillThisLove-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Lovesick Girl",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/lovesickgirl.jpeg",
+            "audioFile": "./audio/LovesickGirls-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Play With Fire",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/playwithfire.jpg",
+            "audioFile": "./audio/PlayingWithFire-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Pretty Savage",
+            "audioArtists": "BlackPink",
+            "audioImage": "./image/prettysavage.jpg",
+            "audioFile": "./audio/PrettySavage-BLACKPINK.mp3"
+        },
+        {
+            "audioName": "Solo",
+            "audioArtists": "Jennie",
+            "audioImage": "./image/solo.jpg",
+            "audioFile": "./audio/Solo-JennieBlackPink.mp3"
+        }
+    ]
+}
